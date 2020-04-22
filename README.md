@@ -11,5 +11,5 @@
 <img src  = "https://user-images.githubusercontent.com/52908154/80017748-03ec2500-8510-11ea-86df-87e0cc112555.png" width =30%><img>
 <img src  = "https://user-images.githubusercontent.com/52908154/80017437-92ac7200-850f-11ea-9828-7a5245353ac8.png" width =60%><img>  
 #### Development environment  
-App - android studio
+App - android studio  
 DB - firebase
